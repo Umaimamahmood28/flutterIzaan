@@ -11,7 +11,7 @@ class Calculator extends StatelessWidget {
       appBar: AppBar(
       backgroundColor: Color.fromARGB(255, 9, 32, 239),
       title: Text ('WELCOME'),
-      leading: Text ('Home'),
+      leading: Text ('umaima'),
     
       
       ),
